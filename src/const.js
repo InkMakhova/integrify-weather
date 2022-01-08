@@ -9,4 +9,4 @@ export const APIRoute = {
   Forecast: '/forecasts/v1/daily/1day/',
 }
 
-export const API_KEY = '3KTGzJFQdxtIjSRTHn8xVlXyDOmrFlGN';
+export const API_KEY = 'AfdKFBcviyVGRpMLZBIV73G8IhFVxUhe';
